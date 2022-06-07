@@ -20,7 +20,7 @@ const two=10; // Reference Error with Cont and Let
 
 //--------------------------------------------------------
 
-function a(){
+function a(){  
     var x=10;
     let y=20;
     const z=30;
